@@ -1,0 +1,6 @@
+EXPORTS
+	TVTGetVersion
+	TVTGetPluginInfo
+	TVTInitialize
+	TVTFinalize
+
